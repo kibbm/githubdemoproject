@@ -1,5 +1,5 @@
 {
-    "name": "githubdemoproject",
+    "name": "반응속도게임",
     "description": "",
     "dependencies": {
         "core": "*",
